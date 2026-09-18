@@ -1,0 +1,26 @@
+[
+  {
+    "phone": "+525541698200",
+    "type": "EXTORSION",
+    "risk": 95,
+    "date": "2026-09-18"
+  },
+  {
+    "phone": "+34910887654",
+    "type": "VISHING_BANCARIO",
+    "risk": 90,
+    "date": "2026-09-18"
+  },
+  {
+    "phone": "+34900123456",
+    "type": "SPOOFING",
+    "risk": 75,
+    "date": "2026-09-18"
+  },
+  {
+    "phone": "+525555335533",
+    "type": "CONSEJO_CIUDADANO_OFICIAL",
+    "risk": 0,
+    "date": "2026-09-18"
+  }
+]
